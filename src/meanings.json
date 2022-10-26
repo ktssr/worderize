@@ -1,0 +1,1553 @@
+[
+  {
+    "word": "Aberration",
+    "meaning": "a deviation from what is normal or expected",
+    "mnemonic": "Aberrant(beer+ant)...ant drank beer and walking abnormal.."
+  },
+  {
+    "word": "Abstain",
+    "meaning": "restrain oneself from doing or enjoying something.",
+    "mnemonic": ""
+  },
+  { "word": "Acidic", "meaning": "Sharp-tasting or sour", "mnemonic": "" },
+  { "word": "Acrimony", "meaning": "Bitterness and ill will", "mnemonic": "" },
+  {
+    "word": "Actuate",
+    "meaning": "Cause (someone) to act in a particular way; motivate",
+    "mnemonic": ""
+  },
+  {
+    "word": "Adept",
+    "meaning": "Very skilled or proficient at something",
+    "mnemonic": ""
+  },
+  {
+    "word": "Advocate",
+    "meaning": "A person who publicly supports or recommends a particular cause or policy.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Affable",
+    "meaning": "Friendly, good-natured, or easy to talk to",
+    "mnemonic": ""
+  },
+  {
+    "word": "Affinity",
+    "meaning": "A spontaneous or natural liking or sympathy for someone or something.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Affirm",
+    "meaning": "Accept or confirm the validity of (a judgment or agreement); ratify.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Allege",
+    "meaning": "Claim or assert that someone has done something illegal or wrong, typically without proof that this is the case.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Allocate",
+    "meaning": "Distribute (resources or duties) for a particular purpose.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Aloof",
+    "meaning": "Not friendly or forthcoming; cool and distant.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Amalgam",
+    "meaning": "A mixture of multiple things",
+    "mnemonic": ""
+  },
+  {
+    "word": "Ambiguous",
+    "meaning": "Open to more than one interpretation",
+    "mnemonic": ""
+  },
+  {
+    "word": "Ambivalent",
+    "meaning": "Mixed or conflicting emotions about something",
+    "mnemonic": ""
+  },
+  { "word": "Amenable", "meaning": "Easily Persuaded", "mnemonic": "" },
+  { "word": "Amorphous", "meaning": "Shapeless", "mnemonic": "" },
+  { "word": "Animosity", "meaning": "Strong hostility", "mnemonic": "" },
+  { "word": "Anomalous", "meaning": "Not Normal", "mnemonic": "" },
+  {
+    "word": "Anticipate",
+    "meaning": "Regard as probable; expect or predict.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Antipathy",
+    "meaning": "A deep-seated feeling of dislike; aversion.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Apathy",
+    "meaning": "Lack of interest, enthusiasm, or concern.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Appease",
+    "meaning": "Pacify or placate (someone) by acceding to their demands.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Apprehension",
+    "meaning": "Anxiety or fear that something bad or unpleasant will happen.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Approve",
+    "meaning": "Officially agree to or accept as satisfactory",
+    "mnemonic": ""
+  },
+  {
+    "word": "Arbitrator",
+    "meaning": "An independent person or body officially appointed to settle a dispute.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Archaic",
+    "meaning": "Very old or old-fashioned.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Arduous",
+    "meaning": "Involving or requiring strenuous effort; difficult and tiring.",
+    "mnemonic": ""
+  },
+  { "word": "Artful", "meaning": "Exhibiting artistic skill", "mnemonic": "" },
+  {
+    "word": "Attain",
+    "meaning": "Succeed in achieving (something that one desires and has worked for)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Audacious",
+    "meaning": "Showing a willingness to take surprisingly bold risks.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Augment",
+    "meaning": "Make (something) greater by adding to it; increase",
+    "mnemonic": ""
+  },
+  {
+    "word": "Auspicious",
+    "meaning": "Favourable, the opposite of sinister",
+    "mnemonic": ""
+  },
+  {
+    "word": "Austere",
+    "meaning": "Severe or strict in manner, attitude, or appearance.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Aver",
+    "meaning": "State or assert to be the case.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Baffle",
+    "meaning": "Totally bewilder or perplex.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Belie",
+    "meaning": "To give a false representation to; misrepresent",
+    "mnemonic": ""
+  },
+  {
+    "word": "Belittle",
+    "meaning": "Make (someone or something) seem unimportant.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Bellicose",
+    "meaning": "Demonstrating aggression and willingness to fight.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Benefactor",
+    "meaning": "A person who gives money or other help to a person or cause.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Besiege",
+    "meaning": "Surround (a place) with armed forces in order to capture it or force its surrender; lay siege to.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Betray",
+    "meaning": "Unintentionally reveal; be evidence of.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Blockade",
+    "meaning": "An obstruction of a physiological or mental function",
+    "mnemonic": ""
+  },
+  {
+    "word": "Broadcast",
+    "meaning": "Tell (something) to many people; make widely known.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Buttress",
+    "meaning": "A source of defense or support",
+    "mnemonic": ""
+  },
+  {
+    "word": "Callous",
+    "meaning": "Showing or having an insensitive and cruel disregard for others",
+    "mnemonic": ""
+  },
+  {
+    "word": "Calumny",
+    "meaning": "Making of a false statement meant to injure a person’s reputation.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Candid",
+    "meaning": "Truthful and straightforward; frank.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Canoe",
+    "meaning": "A narrow, keelless boat with pointed ends, propelled by a paddle or paddles.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Censure",
+    "meaning": "To express strong disapproval",
+    "mnemonic": ""
+  },
+  {
+    "word": "Chaotic",
+    "meaning": "In a state of complete confusion and disorder.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Charitable",
+    "meaning": "Generous in giving to those in need.",
+    "mnemonic": ""
+  },
+  { "word": "Chastise", "meaning": "To reprimand harshly", "mnemonic": "" },
+  {
+    "word": "Circumspect",
+    "meaning": "Wary and unwilling to take risks.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Clarify",
+    "meaning": "Make (a statement or situation) less confused and more clearly comprehensible.",
+    "mnemonic": ""
+  },
+  { "word": "Colossal", "meaning": "Extremely large.", "mnemonic": "" },
+  {
+    "word": "Commend",
+    "meaning": "Praise formally or officially.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Commensurate",
+    "meaning": "To be in proportion or corresponding in degree or amount",
+    "mnemonic": ""
+  },
+  {
+    "word": "Commiserate",
+    "meaning": "Express or feel sympathy or pity; sympathize.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Comply",
+    "meaning": "(of a person or group) act in accordance with a wish or command.",
+    "mnemonic": ""
+  },
+  { "word": "Concede", "meaning": "acknowledge defeat", "mnemonic": "" },
+  {
+    "word": "Conceptualize",
+    "meaning": "Form a concept or idea of (something)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Condemnation",
+    "meaning": "The expression of very strong disapproval; censure",
+    "mnemonic": ""
+  },
+  {
+    "word": "Condense",
+    "meaning": "Express (a piece of writing or speech) in fewer words; make concise.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Conform",
+    "meaning": "Comply with rules, standards, or laws.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Confront",
+    "meaning": "Face up to and deal with (a problem or difficult situation)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Congenial",
+    "meaning": "(of a thing) pleasant or agreeable because suited to one’s taste or inclination.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Conniving",
+    "meaning": "Given to or involved in conspiring to do something immoral, illegal, or harmful.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Conspicuous",
+    "meaning": "Standing out so as to be clearly visible.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Construct",
+    "meaning": "Form (an idea or theory) by bringing together various conceptual elements, typically over a period of time.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Contempt",
+    "meaning": "The feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Corporeal",
+    "meaning": "Relating to a person’s body, especially as opposed to their spirit.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Corroborate",
+    "meaning": "Confirm or give support to (a statement, theory, or finding)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Counteract",
+    "meaning": "Act against (something) in order to reduce its force or neutralize it.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Crate",
+    "meaning": "A slatted wooden case used for transporting or storing goods.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Credential",
+    "meaning": "A document or certificate proving a person’s identity or qualifications.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Culminate",
+    "meaning": "Reach a climax or point of highest development.",
+    "mnemonic": ""
+  },
+  { "word": "Culpable", "meaning": "Deserving blame", "mnemonic": "" },
+  {
+    "word": "Curb",
+    "meaning": "A check or restraint on something.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Curtail",
+    "meaning": "Reduce in extent or quantity; impose a restriction on.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Decline",
+    "meaning": "Diminish in strength or quality; deteriorate.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Decode",
+    "meaning": "Analyze and interpret (a verbal or nonverbal communication or image)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Defend",
+    "meaning": "Resist an attack made on (someone or something); protect from harm or danger.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Definitive",
+    "meaning": "done or reached decisively and with authority.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Degenerative",
+    "meaning": "Of or tending to decline and deterioration",
+    "mnemonic": ""
+  },
+  {
+    "word": "Delectable",
+    "meaning": "(of food or drink) delicious",
+    "mnemonic": ""
+  },
+  {
+    "word": "Deliberate",
+    "meaning": "Done consciously and intentionally.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Demeanour",
+    "meaning": "Outward behavior or bearing",
+    "mnemonic": ""
+  },
+  {
+    "word": "Demur",
+    "meaning": "To object or show reluctance",
+    "mnemonic": ""
+  },
+  {
+    "word": "Denigrate",
+    "meaning": "Criticize unfairly; disparage.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Denounce",
+    "meaning": "Publicly declare to be wrong or evil.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Deprive",
+    "meaning": "Deny (a person or place) the possession or use of something.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Deride",
+    "meaning": "Express contempt for; ridicule.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Despicable",
+    "meaning": "Deserving hatred and contempt",
+    "mnemonic": ""
+  },
+  {
+    "word": "Deter",
+    "meaning": "Discourage (someone) from doing something by instilling doubt or fear of the consequences.",
+    "mnemonic": ""
+  },
+  { "word": "Detrimental", "meaning": "Tending to cause harm", "mnemonic": "" },
+  {
+    "word": "Devolve",
+    "meaning": "Transfer or delegate (power) to a lower level, especially from central government to local or regional administration.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Diligent",
+    "meaning": "Having or showing care and conscientiousness in one’s work or duties",
+    "mnemonic": ""
+  },
+  {
+    "word": "Discomfit",
+    "meaning": "Make (someone) feel uneasy or embarrassed.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Discourse",
+    "meaning": "A formal discussion of a topic in speech or writing",
+    "mnemonic": ""
+  },
+  {
+    "word": "Discredit",
+    "meaning": "Cause (an idea or piece of evidence) to seem false or unreliable.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Disdainful",
+    "meaning": "Showing contempt or lack of respect.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Disguise",
+    "meaning": "Make (something) unrecognizable by altering its appearance, sound, taste, or smell.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Disgusting",
+    "meaning": "Arousing revulsion or strong indignation.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Disintegrate",
+    "meaning": "Break up into small parts, typically as the result of impact or decay.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Dismay",
+    "meaning": "Consternation and distress, typically that caused by something unexpected.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Disparage",
+    "meaning": "Regard or represent as being of little worth.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Dispute",
+    "meaning": "A disagreement, argument, or debate.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Distinction",
+    "meaning": "A difference or contrast between similar things or people.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Durability",
+    "meaning": "The ability to withstand wear, pressure, or damage.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Dynamic",
+    "meaning": "characterized by constant change, activity, or progress.",
+    "mnemonic": ""
+  },
+  { "word": "Edible", "meaning": "Fit to be eaten", "mnemonic": "" },
+  {
+    "word": "Efficacy",
+    "meaning": "The ability to produce a desired or intended result.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Egregious",
+    "meaning": "Standing out in a negative way; shockingly bad",
+    "mnemonic": ""
+  },
+  {
+    "word": "Elation",
+    "meaning": "Great happiness and exhilaration.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Eliminate",
+    "meaning": "Completely remove or get rid of (something)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Elucidate",
+    "meaning": "Make (something) clear; explain.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Embolden",
+    "meaning": "Give (someone) the courage or confidence to do something or to behave in a certain way.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Emulate",
+    "meaning": "Match or surpass (a person or achievement), typically by imitation.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Endorsement",
+    "meaning": "An act of giving one’s public approval or support to someone or something.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Endowment",
+    "meaning": "The action of endowing something or someone.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Enervate",
+    "meaning": "Cause (someone) to feel drained of energy or vitality; weaken.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Enhance",
+    "meaning": "Intensify, increase, or further improve the quality, value, or extent of.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Enlarge",
+    "meaning": "Make or become bigger or more extensive.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Enumerate",
+    "meaning": "Mention (a number of things) one by one",
+    "mnemonic": ""
+  },
+  {
+    "word": "Epitomize",
+    "meaning": "Be a perfect example of.",
+    "mnemonic": ""
+  },
+  { "word": "Equivocal", "meaning": "Confusing or Ambiguous", "mnemonic": "" },
+  {
+    "word": "Eradicate",
+    "meaning": "Destroy completely; put an end to.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Eschew",
+    "meaning": "avoid and stay deliberately; stay clear of",
+    "mnemonic": ""
+  },
+  {
+    "word": "Ethereal",
+    "meaning": "Extremely delicate and light in a way that seems too perfect for this world.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Exhilaration",
+    "meaning": "A feeling of excitement, happiness, or elation.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Expose",
+    "meaning": "Make (something) visible by uncovering it",
+    "mnemonic": ""
+  },
+  {
+    "word": "Expropriation",
+    "meaning": "The action by the state or an authority of taking property from its owner for public use or benefit.",
+    "mnemonic": ""
+  },
+  { "word": "Extant", "meaning": "Still in existence", "mnemonic": "" },
+  {
+    "word": "Extensive",
+    "meaning": "Covering or affecting a large area.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Extraneous",
+    "meaning": "Irrelevant or unrelated to the subject being dealt with",
+    "mnemonic": ""
+  },
+  {
+    "word": "Fervent",
+    "meaning": "Having or displaying a passionate intensity.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Fluster",
+    "meaning": "Make (someone) agitated or confused.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Forthright",
+    "meaning": "direct and outspoken; straightforward and honest.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Fortitude",
+    "meaning": "Courage in pain or adversity.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Frenetic",
+    "meaning": "Fast and energetic in a rather wild and uncontrolled way",
+    "mnemonic": ""
+  },
+  {
+    "word": "Frugal",
+    "meaning": "Not spending much money (but spending wisely)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Fruitful",
+    "meaning": "Producing good or helpful results; productive",
+    "mnemonic": ""
+  },
+  {
+    "word": "Fulminate",
+    "meaning": "Express vehement protest",
+    "mnemonic": ""
+  },
+  {
+    "word": "Gainsay",
+    "meaning": "Deny or contradict; speak against or oppose",
+    "mnemonic": ""
+  },
+  {
+    "word": "Galvanize",
+    "meaning": "To excite or inspire (someone) to action",
+    "mnemonic": ""
+  },
+  {
+    "word": "Gauge",
+    "meaning": "A means of estimating something; a criterion or test",
+    "mnemonic": ""
+  },
+  {
+    "word": "Generosity",
+    "meaning": "The quality of being kind and generous.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Germane",
+    "meaning": "Relevant to a subject under consideration.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Glib",
+    "meaning": "Fluent and voluble but insincere and shallow.",
+    "mnemonic": ""
+  },
+  { "word": "Glut", "meaning": "An excessive supply", "mnemonic": "" },
+  {
+    "word": "Gorgeous",
+    "meaning": "Beautiful; very attractive.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Gregarious",
+    "meaning": "To be likely to socialize with others",
+    "mnemonic": ""
+  },
+  {
+    "word": "Guile",
+    "meaning": "Sly or cunning intelligence.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Harangue",
+    "meaning": "A long pompous speech; a tirade",
+    "mnemonic": ""
+  },
+  {
+    "word": "Hardened",
+    "meaning": "Having become or been made hard or harder.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Hedge",
+    "meaning": "A fence or boundary formed by closely growing bushes or shrubs.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Humiliate",
+    "meaning": "Make (someone) feel ashamed and foolish by injuring their dignity and self-respect, especially publicly.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Humorous",
+    "meaning": "Having or showing a sense of humor",
+    "mnemonic": ""
+  },
+  {
+    "word": "Iconoclast",
+    "meaning": "Somebody who attacks cherished beliefs or institutions",
+    "mnemonic": ""
+  },
+  {
+    "word": "Illegible",
+    "meaning": "Not clear enough to be read.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Illegitimate",
+    "meaning": "Not authorized by the law; not in accordance with accepted standards or rules.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Immerse",
+    "meaning": "Dip or submerge in a liquid.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Impair",
+    "meaning": "Weaken or damage something (especially a human faculty or function)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Impertinent",
+    "meaning": "Being disrespectful; improperly forward or bold.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Implicate",
+    "meaning": "Show (someone) to be involved in a crime.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Impress",
+    "meaning": "Make (someone) feel admiration and respect.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Impudent",
+    "meaning": "Not showing due respect for another person; impertinent.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Incarceration",
+    "meaning": "The state of being confined in prison; imprisonment.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Incomprehensible",
+    "meaning": "Not able to be understood; not intelligible.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Inconsequential",
+    "meaning": "Not important or significant.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Incorrigible",
+    "meaning": "(of a person or their tendencies) not able to be corrected, improved, or reformed.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Indefatigable",
+    "meaning": "(of a person or their efforts) persisting tirelessly.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Indefensible",
+    "meaning": "Not justifiable by argument.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Indelible",
+    "meaning": "(of ink or a pen) making marks that cannot be removed.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Indictment",
+    "meaning": "A formal charge or accusation of a serious crime",
+    "mnemonic": ""
+  },
+  { "word": "Indigent", "meaning": "A needy person.", "mnemonic": "" },
+  {
+    "word": "Indulgent",
+    "meaning": "Become involved in (an activity, typically one that is undesirable or disapproved of)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Inexplicable",
+    "meaning": "Unable to be explained or accounted for.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Initiate",
+    "meaning": "Cause (a process or action) to begin.",
+    "mnemonic": ""
+  },
+  { "word": "Innate", "meaning": "Inborn; natural.", "mnemonic": "" },
+  {
+    "word": "Innocuous",
+    "meaning": "Harmless and doesn’t produce any ill effects",
+    "mnemonic": ""
+  },
+  {
+    "word": "Insidious",
+    "meaning": "Proceeding in a gradual, subtle way, but with harmful effects.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Instill",
+    "meaning": "Gradually but firmly establish (an idea or attitude, especially a desirable one) in a person’s mind.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Insubordination",
+    "meaning": "Defiance of authority; refusal to obey orders.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Integrity",
+    "meaning": "The quality of being honest and having strong moral principles; moral uprightness.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Intimate",
+    "meaning": "To suggest something subtly",
+    "mnemonic": ""
+  },
+  {
+    "word": "Intrepid",
+    "meaning": "Fearless; adventurous (often used for rhetorical or humorous effect)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Intricate",
+    "meaning": "Very complicated or detailed.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Introspect",
+    "meaning": "Examine one’s own thoughts or feelings.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Intuitive",
+    "meaning": "Using or based on what one feels to be true even without conscious reasoning; instinctive.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Inveterate",
+    "meaning": "Having a particular habit, activity, or interest that is long-established and unlikely to change.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Invincible",
+    "meaning": "The quality of being too powerful to be defeated or overcome.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Involved",
+    "meaning": "Complicated, and difficult to comprehend",
+    "mnemonic": ""
+  },
+  {
+    "word": "Irrelevant",
+    "meaning": "Not connected with or relevant to something",
+    "mnemonic": ""
+  },
+  {
+    "word": "Laconic",
+    "meaning": "(Describe a person, speech, or style of writing) using very few words.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Latent",
+    "meaning": "(of a quality or state) existing but not yet developed or manifest; hidden or concealed",
+    "mnemonic": ""
+  },
+  {
+    "word": "Laudable",
+    "meaning": "(of an action, idea, or goal) deserving praise and commendation.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Lax",
+    "meaning": "Not sufficiently strict, severe, or careful.",
+    "mnemonic": ""
+  },
+  { "word": "Leisure", "meaning": "Free time.", "mnemonic": "" },
+  {
+    "word": "Levitate",
+    "meaning": "Rise or cause to rise and hover in the air, especially by means of supernatural or magical power.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Licentious",
+    "meaning": "Promiscuous and unprincipled in sexual matters.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Loquacious",
+    "meaning": "Tending to talk a great deal; talkative.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Magnanimous",
+    "meaning": "Generous or forgiving, especially toward a rival or less powerful person.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Maintain",
+    "meaning": "Cause or enable (a condition or state of affairs) to continue.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Malaise",
+    "meaning": "A general feeling of discomfort, illness, or uneasiness whose exact cause is difficult to identify.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Malign",
+    "meaning": "Evil in nature or effect; malevolent.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Malleable",
+    "meaning": "(of a metal or other material) able to be hammered or pressed permanently out of shape without breaking or cracking.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Mast",
+    "meaning": "A tall upright post, spar, or other structure on a ship or boat, in sailing vessels, generally carrying a sail or sails.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Menial",
+    "meaning": "(of work) not requiring much skill and lacking prestige.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Mercurial",
+    "meaning": "Prone to unexpected and unpredictable changes in mood.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Meticulous",
+    "meaning": "Showing great attention to detail; very careful and precise.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Metrics",
+    "meaning": "The use or study of poetic meters; prosody.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Misanthrope",
+    "meaning": "A person who dislikes humankind and avoids human society.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Misery",
+    "meaning": "A state or feeling of great distress or discomfort of mind or body.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Misgiving",
+    "meaning": "A feeling of doubt or apprehension about the outcome or consequences of something.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Mitigate",
+    "meaning": "Make less severe, serious, or painful.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Modest",
+    "meaning": "Unassuming or moderate in the estimation of one’s abilities or achievements.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Mollify",
+    "meaning": "Appease the anger or anxiety of (someone)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Mortal",
+    "meaning": "(of a living human being, often in contrast to a divine being) subject to death",
+    "mnemonic": ""
+  },
+  {
+    "word": "Mount",
+    "meaning": "Climb up (stairs, a hill, or other rising surfaces)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Nostalgic",
+    "meaning": "Characterized by or exhibiting feelings of nostalgia.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Novice",
+    "meaning": "A person new to or inexperienced in a field or situation.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Obscure",
+    "meaning": "Not clearly expressed or easily understood.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Ocular",
+    "meaning": "Of or connected with the eyes or vision.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Ominous",
+    "meaning": "Giving the impression that something bad or unpleasant is going to happen; threatening; inauspicious.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Omnipotent",
+    "meaning": "Having unlimited power; able to do anything.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Optimal",
+    "meaning": "Best or most favorable; optimum",
+    "mnemonic": ""
+  },
+  {
+    "word": "Ostentatious",
+    "meaning": "Characterized by vulgar or pretentious display; designed to impress or attract notice.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Overpower",
+    "meaning": "Defeat or overcome with superior strength.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Parochial",
+    "meaning": "Narrowly restricted in scope or outlook",
+    "mnemonic": ""
+  },
+  {
+    "word": "Parsimonious",
+    "meaning": "Extremely Frugal; miserly",
+    "mnemonic": ""
+  },
+  {
+    "word": "Peculiarities",
+    "meaning": "A characteristic or quality that is distinctive of a particular person or place.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Penal",
+    "meaning": "(of an act or offense) punishable by law.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Penchant",
+    "meaning": "A strong or habitual liking for something or a tendency to do something.",
+    "mnemonic": ""
+  },
+  { "word": "Perilous", "meaning": "Full of danger or risk.", "mnemonic": "" },
+  {
+    "word": "Persistent",
+    "meaning": "Continuing to exist or endure over a prolonged period.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Personas",
+    "meaning": "A role or character adopted by an author or an actor.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Personify",
+    "meaning": "Represent (a quality or concept) by a figure in human form.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Perspire",
+    "meaning": "Give out sweat through the pores of the skin as a result of heat, physical exertion, or stress.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Persuade",
+    "meaning": "Cause (someone) to do something through reasoning or argument.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Pessimistic",
+    "meaning": "Tending to see the worst aspect of things or believe that the worst will happen.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Placate",
+    "meaning": "Make (someone) less angry or hostile.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Poignant",
+    "meaning": "Sharp or pungent in taste or smell.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Precursor",
+    "meaning": "A person or thing that comes before another of the same kind; a forerunner.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Predator",
+    "meaning": "An animal that naturally preys on others.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Predilection",
+    "meaning": "A preference or special liking for something; a bias in favor of something.",
+    "mnemonic": ""
+  },
+  {
+    "word": "President",
+    "meaning": "The head of a society, council, or other organization.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Prevail",
+    "meaning": "Prove more powerful than opposing forces; be victorious.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Prevalent",
+    "meaning": "Widespread in a particular area or at a particular time.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Prevaricate",
+    "meaning": "To speak in an evasive way",
+    "mnemonic": ""
+  },
+  {
+    "word": "Proclaim",
+    "meaning": "Declare something one considers important with due emphasis.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Prodigal",
+    "meaning": "Rashly or wastefully extravagant",
+    "mnemonic": ""
+  },
+  {
+    "word": "Professed",
+    "meaning": "(of quality, feeling, or belief) claimed or asserted openly but often falsely.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Proficient",
+    "meaning": "Competent or skilled in doing or using something.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Profligate",
+    "meaning": "Spending resources recklessly or wastefully",
+    "mnemonic": ""
+  },
+  {
+    "word": "Progressive",
+    "meaning": "Happening or developing gradually or in stages; proceeding step by step",
+    "mnemonic": ""
+  },
+  { "word": "Prolong", "meaning": "Extend the duration of.", "mnemonic": "" },
+  {
+    "word": "Propensity",
+    "meaning": "An inclination or natural tendency to behave in a particular way.",
+    "mnemonic": ""
+  },
+  { "word": "Protract", "meaning": "Prolong.", "mnemonic": "" },
+  {
+    "word": "Prudence",
+    "meaning": "The quality of being prudent; cautiousness.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Prurient",
+    "meaning": "Having or encouraging an excessive interest in sexual matters.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Qualify",
+    "meaning": "Be entitled to a particular benefit or privilege by fulfilling a necessary condition.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Querulous",
+    "meaning": "Complaining in a petulant or whining manner.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Rabid",
+    "meaning": "Having or proceeding from extreme or fanatical support of or belief in something.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Realign",
+    "meaning": "Change or restore to a different or former position or state.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Recalcitrant",
+    "meaning": "Having an obstinately uncooperative attitude toward authority or discipline.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Reckless",
+    "meaning": "(of a person or their actions) without thinking or caring about the consequences of an action.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Reclusive",
+    "meaning": "Avoiding the company of other people; solitary.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Reconcile",
+    "meaning": "Restore friendly relations between.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Regressive",
+    "meaning": "Becoming less advanced; returning to a former or less developed state.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Reparation",
+    "meaning": "The compensation for war damage paid by a defeated state.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Rescind",
+    "meaning": "Revoke, cancel, or repeal (a law, order, or agreement)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Resent",
+    "meaning": "Feel bitterness or indignation at (a circumstance, action, or person)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Resilient",
+    "meaning": "(of a person or animal) able to withstand or recover quickly from difficult conditions.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Resist",
+    "meaning": "Withstand the action or effect of.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Resolution",
+    "meaning": "A firm decision to do or not to do something",
+    "mnemonic": ""
+  },
+  {
+    "word": "Restate",
+    "meaning": "State (something) again or differently, especially in order to correct or to make more clear or convincing.",
+    "mnemonic": ""
+  },
+  { "word": "Restive", "meaning": "Restless", "mnemonic": "" },
+  {
+    "word": "Restrictive",
+    "meaning": "Imposing restrictions or limitations on someone’s activities or freedom.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Retrace",
+    "meaning": "Go back over (the same route that one has just taken)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Retrospect",
+    "meaning": "When looking back on a past event or situation; with hindsight.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Revoke",
+    "meaning": "Put an end to the validity or operation of (a decree, decision, or promise)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Rival",
+    "meaning": "A person or thing competing with another for the same objective or for superiority in the same field of activity.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Riveting",
+    "meaning": "Completely engrossing; compelling.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Robust",
+    "meaning": "Strong and healthy; vigorous.",
+    "mnemonic": ""
+  },
+  { "word": "Rouse", "meaning": "Bring out of sleep; awaken.", "mnemonic": "" },
+  {
+    "word": "Salient",
+    "meaning": "Most noticeable or important.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Sanguine",
+    "meaning": "Optimistic or positive, especially in an apparently bad or difficult situation.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Secretive",
+    "meaning": "Inclined to conceal feelings and intentions or not to disclose information.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Semantic",
+    "meaning": "Relating to meaning in language or logic.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Sequel",
+    "meaning": "A published, broadcast, or recorded work that continues the story or develops the theme of an earlier one.",
+    "mnemonic": ""
+  },
+  { "word": "Sluggish", "meaning": "Slow-moving or inactive", "mnemonic": "" },
+  {
+    "word": "Stagnant",
+    "meaning": "Showing no activity; dull and sluggish",
+    "mnemonic": ""
+  },
+  {
+    "word": "Stagnation",
+    "meaning": "The state of not flowing or moving.",
+    "mnemonic": ""
+  },
+  { "word": "Steely", "meaning": "Coldly determined; hard.", "mnemonic": "" },
+  {
+    "word": "Sterile",
+    "meaning": "Not able to produce children or young ones.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Stigmatize",
+    "meaning": "Describe or regard as worthy of disgrace or great disapproval.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Strain",
+    "meaning": "Force (a part of one’s body or oneself) to make a strenuous or unusually great effort.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Stringent",
+    "meaning": "(of regulations, requirements, or conditions) strict, precise, and exacting.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Subservient",
+    "meaning": "Prepared to obey others unquestioningly; subordinate",
+    "mnemonic": ""
+  },
+  {
+    "word": "Supercilious",
+    "meaning": "Behaving or looking as though one thinks one is superior to others",
+    "mnemonic": ""
+  },
+  { "word": "Supplant", "meaning": "Supersede and replace.", "mnemonic": "" },
+  {
+    "word": "Surmount",
+    "meaning": "Overcome (a difficulty or obstacle)",
+    "mnemonic": ""
+  },
+  {
+    "word": "Surreptitiously",
+    "meaning": "In a way that attempts to avoid notice or attention; secretively.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Tactile",
+    "meaning": "Of or connected with the sense of touch.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Temper",
+    "meaning": "A person’s state of mind seen in terms of their being angry or calm.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Temperamental",
+    "meaning": "(of a person) liable to unreasonable changes of mood.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Tepid",
+    "meaning": "(especially of a liquid) only slightly warm; lukewarm.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Terse",
+    "meaning": "Sparing in the use of words; abrupt.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Timorous",
+    "meaning": "Showing or suffering from nervousness, fear, or a lack of confidence.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Tormenting",
+    "meaning": "Inflicting severe physical or mental suffering.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Torpor",
+    "meaning": "Inactivity resulting from lethargy and lack of vigor or energy",
+    "mnemonic": ""
+  },
+  {
+    "word": "Triumph",
+    "meaning": "A great victory or achievement.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Ubiquitous",
+    "meaning": "Present, appearing, or found everywhere.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Unconstrained",
+    "meaning": "Not restricted or limited.",
+    "mnemonic": ""
+  },
+  { "word": "Undermine", "meaning": "To weaken", "mnemonic": "" },
+  {
+    "word": "Undeterred",
+    "meaning": "Persevering with something despite setbacks.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Undignified",
+    "meaning": "Appearing foolish and unseemly; lacking in dignity.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Unmasked",
+    "meaning": "(of a feeling) unconcealed; overt.",
+    "mnemonic": ""
+  },
+  { "word": "Upbraid", "meaning": "To reproach; to scold", "mnemonic": "" },
+  {
+    "word": "Vacillate",
+    "meaning": "Alternate or waver between different opinions or actions; be indecisive.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Vehement",
+    "meaning": "Showing strong feelings; forceful, passionate, or intense.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Venality",
+    "meaning": "The condition of being susceptible to bribes or corruption",
+    "mnemonic": ""
+  },
+  { "word": "Venerate", "meaning": "To respect deeply", "mnemonic": "" },
+  {
+    "word": "Vengeance",
+    "meaning": "Punishment inflicted or retribution exacted for an injury or wrong.",
+    "mnemonic": ""
+  },
+  { "word": "Veracious", "meaning": "Truthful", "mnemonic": "" },
+  {
+    "word": "Vicarious",
+    "meaning": "Experienced in the imagination through the feelings or actions of another person.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Vindicate",
+    "meaning": "To clear of accusation, blame, suspicion or doubt with supporting arguments or proof.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Virulent",
+    "meaning": "(of a disease or poison) extremely severe or harmful in its effects.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Wary",
+    "meaning": "Feeling or showing caution about possible dangers or problems.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Waver",
+    "meaning": "Shake with a quivering motion.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Word",
+    "meaning": "A single distinct conceptual unit of language, comprising inflected and variant forms.",
+    "mnemonic": ""
+  },
+  {
+    "word": "Wrench",
+    "meaning": "A sudden violent twist or pull.",
+    "mnemonic": ""
+  }
+]
