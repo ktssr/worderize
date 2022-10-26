@@ -6,7 +6,7 @@ import Title from "./Title";
 export default () => {
   return (
     <Box width="100vw" height="100vh" bgcolor="#171717">
-      <Container maxWidth="md" sx={{ height: "100%", display: "flex" }}>
+      <Container maxWidth="md" sx={{ height: "100%", display: "flex", overflow:"auto"}}>
         <Stack
           flex={1}
           justifyContent="flex-start"
