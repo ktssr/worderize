@@ -20,7 +20,6 @@ export default () => {
   }, []);
 
   const disableDisplayMeaning = useCallback(() => {
-    console.log(displayMeaning);
     if (displayMeaning) setDisplayMeaning(false);
   }, [displayMeaning]);
 
