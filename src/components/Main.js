@@ -57,7 +57,7 @@ export default () => {
         <Card
           sx={{
             width: "345px",
-            background: "rgba(255,255,255,.005",
+            background: "rgba(255, 255, 255, 0.005",
             borderRadius: "15px",
             border: "1px solid rgba(43, 43, 43, 0.568)",
           }}
