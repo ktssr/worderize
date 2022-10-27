@@ -35,7 +35,7 @@ export default () => {
   const hadleReset = useCallback(() => {
     disableDisplayMeaning();
     reset();
-  }, []);
+  }, [displayMeaning]);
 
   const hadleNext = useCallback(() => {
     if (!displayMeaning) {
