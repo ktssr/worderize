@@ -5,8 +5,8 @@ import Title from "./Title";
 
 export default () => {
   return (
-    <Box width="100vw" height="100vh" bgcolor="#171717", overflow:"auto">
-      <Container maxWidth="md" sx={{ display: "flex"}}>
+    <Box width="100vw" height="100vh" bgcolor="#171717" overflow="auto">
+      <Container maxWidth="md" sx={{ display: "flex" }}>
         <Stack
           flex={1}
           justifyContent="flex-start"
