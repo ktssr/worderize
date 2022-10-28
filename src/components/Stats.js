@@ -8,7 +8,7 @@ export default ({ allWords, words }) => (
     width="345px"
     color="pink"
   >
-    <Typography variant="p">Total : {allWords.length}</Typography>
-    <Typography variant="p">Remaining : {words.length}</Typography>
+    <Typography variant="p">Total : {allWords}</Typography>
+    <Typography variant="p">Remaining : {words}</Typography>
   </Stack>
 );
