@@ -7,14 +7,18 @@
   {
     "word": "Abstain",
     "meaning": "restrain oneself from doing or enjoying something.",
-    "mnemonic": ""
+    "mnemonic": "AB + STAY (stay out of something)"
   },
   { "word": "Acidic", "meaning": "Sharp-tasting or sour", "mnemonic": "" },
-  { "word": "Acrimony", "meaning": "Bitterness and ill will", "mnemonic": "" },
+  {
+    "word": "Acrimony",
+    "meaning": "Bitterness and ill will",
+    "mnemonic": " A+ CRY + MONY (Say bitter words and make peoople cry) "
+  },
   {
     "word": "Actuate",
     "meaning": "Cause (someone) to act in a particular way; motivate",
-    "mnemonic": ""
+    "mnemonic": "ACT + UATE (make someone to act)"
   },
   {
     "word": "Adept",
@@ -307,7 +311,7 @@
   {
     "word": "Conspicuous",
     "meaning": "Standing out so as to be clearly visible.",
-    "mnemonic": ""
+    "mnemonic": "Con(can)+ s(see) + the + pic(picture) --> can see the clear picture"
   },
   {
     "word": "Construct",
@@ -388,7 +392,7 @@
   {
     "word": "Delectable",
     "meaning": "(of food or drink) delicious",
-    "mnemonic": ""
+    "mnemonic": "EAT + TABLE"
   },
   {
     "word": "Deliberate",
@@ -439,7 +443,7 @@
   {
     "word": "Devolve",
     "meaning": "Transfer or delegate (power) to a lower level, especially from central government to local or regional administration.",
-    "mnemonic": ""
+    "mnemonic": "Opposite to involved (you do the work)"
   },
   {
     "word": "Diligent",
@@ -520,7 +524,7 @@
   {
     "word": "Egregious",
     "meaning": "Standing out in a negative way; shockingly bad",
-    "mnemonic": ""
+    "mnemonic": "Similer to aggressive. Aggressive pepole are very bad in manner."
   },
   {
     "word": "Elation",
@@ -738,7 +742,7 @@
   {
     "word": "Iconoclast",
     "meaning": "Somebody who attacks cherished beliefs or institutions",
-    "mnemonic": ""
+    "mnemonic": "idol clash"
   },
   {
     "word": "Illegible",
@@ -870,7 +874,7 @@
   {
     "word": "Intrepid",
     "meaning": "Fearless; adventurous (often used for rhetorical or humorous effect)",
-    "mnemonic": ""
+    "mnemonic": "IN TRAP. you are fearless even in trap"
   },
   {
     "word": "Intricate",
@@ -931,7 +935,7 @@
   {
     "word": "Levitate",
     "meaning": "Rise or cause to rise and hover in the air, especially by means of supernatural or magical power.",
-    "mnemonic": ""
+    "mnemonic": "Similar to elevate"
   },
   {
     "word": "Licentious",
@@ -1071,7 +1075,7 @@
   {
     "word": "Ostentatious",
     "meaning": "Characterized by vulgar or pretentious display; designed to impress or attract notice.",
-    "mnemonic": ""
+    "mnemonic": "Read it as Stuntatious. You perform stunts to attract attention"
   },
   {
     "word": "Overpower",
@@ -1117,7 +1121,7 @@
   {
     "word": "Personify",
     "meaning": "Represent (a quality or concept) by a figure in human form.",
-    "mnemonic": ""
+    "mnemonic": "Person + Ify : To represent as person"
   },
   {
     "word": "Perspire",
