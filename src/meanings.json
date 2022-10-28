@@ -23,7 +23,7 @@
   {
     "word": "Adept",
     "meaning": "Very skilled or proficient at something",
-    "mnemonic": ""
+    "mnemonic": "A + DEPTH (Having deep knowledge)"
   },
   {
     "word": "Advocate",
@@ -33,12 +33,12 @@
   {
     "word": "Affable",
     "meaning": "Friendly, good-natured, or easy to talk to",
-    "mnemonic": ""
+    "mnemonic": "F + ABLE (F for friendly)"
   },
   {
     "word": "Affinity",
     "meaning": "A spontaneous or natural liking or sympathy for someone or something.",
-    "mnemonic": ""
+    "mnemonic": "Infinite Affection"
   },
   {
     "word": "Affirm",
@@ -48,7 +48,7 @@
   {
     "word": "Allege",
     "meaning": "Claim or assert that someone has done something illegal or wrong, typically without proof that this is the case.",
-    "mnemonic": ""
+    "mnemonic": "Sounds like Illegal (Any claim without proof is illegal)"
   },
   {
     "word": "Allocate",
@@ -58,12 +58,12 @@
   {
     "word": "Aloof",
     "meaning": "Not friendly or forthcoming; cool and distant.",
-    "mnemonic": ""
+    "mnemonic": "Similar to Alone"
   },
   {
     "word": "Amalgam",
     "meaning": "A mixture of multiple things",
-    "mnemonic": ""
+    "mnemonic": "AMAL + GUM"
   },
   {
     "word": "Ambiguous",
@@ -924,7 +924,7 @@
   {
     "word": "Laudable",
     "meaning": "(of an action, idea, or goal) deserving praise and commendation.",
-    "mnemonic": February -specifically Feb14 when youngsters are quite emotional regarding V-Day. ""
+    "mnemonic": ""
   },
   {
     "word": "Lax",
@@ -1346,7 +1346,11 @@
     "meaning": "Strong and healthy; vigorous.",
     "mnemonic": ""
   },
-  { "word": "Rouse", "meaning": "Bring out of sleep; awaken.", "mnemonic": "Similar to Arousing " },
+  {
+    "word": "Rouse",
+    "meaning": "Bring out of sleep; awaken.",
+    "mnemonic": "Similar to Arousing "
+  },
   {
     "word": "Salient",
     "meaning": "Most noticeable or important.",
