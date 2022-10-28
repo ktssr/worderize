@@ -78,7 +78,7 @@ export default () => {
             <Box display={displayMeaning ? "block" : "none"} color="grey">
               <Typography my={2}>{word.meaning}</Typography>
               {word.mnemonic && (
-                <Typography>mnemonic : {word.mnemonic}</Typography>
+                <Typography>Memory Aid : {word.mnemonic}</Typography>
               )}
             </Box>
           </>
