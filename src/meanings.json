@@ -73,12 +73,24 @@
   {
     "word": "Ambivalent",
     "meaning": "Mixed or conflicting emotions about something",
+    "mnemonic": "AMBI(multiple) + VALENCE(valency > Reactivity of an atom)"
+  },
+  {
+    "word": "Amenable",
+    "meaning": "Easily Persuaded",
+    "mnemonic": "Remember Ammendment(Change to law) - Willing to change"
+  },
+  {
+    "word": "Amorphous",
+    "meaning": "Shapeless",
+    "mnemonic": "Morph - Change Shape. Amorphous - No shape"
+  },
+  {
+    "word": "Animosity",
+    "meaning": "Strong hostility(unfriendliness)",
     "mnemonic": ""
   },
-  { "word": "Amenable", "meaning": "Easily Persuaded", "mnemonic": "" },
-  { "word": "Amorphous", "meaning": "Shapeless", "mnemonic": "" },
-  { "word": "Animosity", "meaning": "Strong hostility", "mnemonic": "" },
-  { "word": "Anomalous", "meaning": "Not Normal", "mnemonic": "" },
+  { "word": "Anomalous", "meaning": "Not Normal", "mnemonic": "ENEMY + CITY" },
   {
     "word": "Anticipate",
     "meaning": "Regard as probable; expect or predict.",
@@ -87,22 +99,22 @@
   {
     "word": "Antipathy",
     "meaning": "A deep-seated feeling of dislike; aversion.",
-    "mnemonic": ""
+    "mnemonic": "Opposite of Symapthy"
   },
   {
     "word": "Apathy",
     "meaning": "Lack of interest, enthusiasm, or concern.",
-    "mnemonic": ""
+    "mnemonic": "Apathetic -> A past ethic (uninterested to today's generation )"
   },
   {
     "word": "Appease",
     "meaning": "Pacify or placate (someone) by acceding to their demands.",
-    "mnemonic": ""
+    "mnemonic": "Appeal + Peace"
   },
   {
     "word": "Apprehension",
     "meaning": "Anxiety or fear that something bad or unpleasant will happen.",
-    "mnemonic": ""
+    "mnemonic": "Appre(HEN)sive - Hens in Farm are always fearful"
   },
   {
     "word": "Approve",
@@ -112,17 +124,17 @@
   {
     "word": "Arbitrator",
     "meaning": "An independent person or body officially appointed to settle a dispute.",
-    "mnemonic": ""
+    "mnemonic": "ARGUMENT + BETTER"
   },
   {
     "word": "Archaic",
     "meaning": "Very old or old-fashioned.",
-    "mnemonic": ""
+    "mnemonic": "Archiology"
   },
   {
     "word": "Arduous",
     "meaning": "Involving or requiring strenuous effort; difficult and tiring.",
-    "mnemonic": ""
+    "mnemonic": "HARD + IOUS"
   },
   { "word": "Artful", "meaning": "Exhibiting artistic skill", "mnemonic": "" },
   {
@@ -138,7 +150,7 @@
   {
     "word": "Augment",
     "meaning": "Make (something) greater by adding to it; increase",
-    "mnemonic": ""
+    "mnemonic": "Augmented Reality"
   },
   {
     "word": "Auspicious",
@@ -148,12 +160,12 @@
   {
     "word": "Austere",
     "meaning": "Severe or strict in manner, attitude, or appearance.",
-    "mnemonic": ""
+    "mnemonic": "AUS + TEAR (It's hard and cannot be teared )"
   },
   {
     "word": "Aver",
     "meaning": "State or assert to be the case.",
-    "mnemonic": ""
+    "mnemonic": "Ver - Veracity (truthfulness)"
   },
   {
     "word": "Baffle",
@@ -163,17 +175,17 @@
   {
     "word": "Belie",
     "meaning": "To give a false representation to; misrepresent",
-    "mnemonic": ""
+    "mnemonic": "BE + LIE"
   },
   {
     "word": "Belittle",
     "meaning": "Make (someone or something) seem unimportant.",
-    "mnemonic": ""
+    "mnemonic": "BE + LITTILE"
   },
   {
     "word": "Bellicose",
     "meaning": "Demonstrating aggression and willingness to fight.",
-    "mnemonic": ""
+    "mnemonic": "BULLY + COSE - Get ready to fight if you are bullied"
   },
   {
     "word": "Benefactor",
@@ -183,7 +195,7 @@
   {
     "word": "Besiege",
     "meaning": "Surround (a place) with armed forces in order to capture it or force its surrender; lay siege to.",
-    "mnemonic": ""
+    "mnemonic": "BE+SEIGE"
   },
   {
     "word": "Betray",
@@ -203,17 +215,17 @@
   {
     "word": "Buttress",
     "meaning": "A source of defense or support",
-    "mnemonic": ""
+    "mnemonic": "MISTRESS - support"
   },
   {
     "word": "Callous",
     "meaning": "Showing or having an insensitive and cruel disregard for others",
-    "mnemonic": ""
+    "mnemonic": "CARELESS"
   },
   {
     "word": "Calumny",
     "meaning": "Making of a false statement meant to injure a person’s reputation.",
-    "mnemonic": ""
+    "mnemonic": "cALUMNY - criticise Alumni "
   },
   {
     "word": "Candid",
@@ -223,7 +235,7 @@
   {
     "word": "Canoe",
     "meaning": "A narrow, keelless boat with pointed ends, propelled by a paddle or paddles.",
-    "mnemonic": ""
+    "mnemonic": "Similar to Canal. Small boat travels in Canal"
   },
   {
     "word": "Censure",
@@ -240,11 +252,15 @@
     "meaning": "Generous in giving to those in need.",
     "mnemonic": ""
   },
-  { "word": "Chastise", "meaning": "To reprimand harshly", "mnemonic": "" },
+  {
+    "word": "Chastise",
+    "meaning": "To reprimand(a formal expression of disapproval) harshly",
+    "mnemonic": "CHEST + ICE - child was chastised by mother for playing with ice on chest"
+  },
   {
     "word": "Circumspect",
     "meaning": "Wary and unwilling to take risks.",
-    "mnemonic": ""
+    "mnemonic": "Similar to Circumstance. Be careful about circumstances when taking risks"
   },
   {
     "word": "Clarify",
@@ -255,24 +271,28 @@
   {
     "word": "Commend",
     "meaning": "Praise formally or officially.",
-    "mnemonic": ""
+    "mnemonic": "RE+COMMEND"
   },
   {
     "word": "Commensurate",
     "meaning": "To be in proportion or corresponding in degree or amount",
-    "mnemonic": ""
+    "mnemonic": "COMMON-ENSURED-RATE"
   },
   {
     "word": "Commiserate",
     "meaning": "Express or feel sympathy or pity; sympathize.",
-    "mnemonic": ""
+    "mnemonic": "mis in the represents miserable. When someone is in Misery, We sympathize"
   },
   {
     "word": "Comply",
     "meaning": "(of a person or group) act in accordance with a wish or command.",
     "mnemonic": ""
   },
-  { "word": "Concede", "meaning": "acknowledge defeat", "mnemonic": "" },
+  {
+    "word": "Concede",
+    "meaning": "acknowledge defeat",
+    "mnemonic": "conc(ieve)+(d)eed - acknowledge your defeat as action of your deeds"
+  },
   {
     "word": "Conceptualize",
     "meaning": "Form a concept or idea of (something)",
@@ -291,7 +311,7 @@
   {
     "word": "Conform",
     "meaning": "Comply with rules, standards, or laws.",
-    "mnemonic": ""
+    "mnemonic": "Confirm to it"
   },
   {
     "word": "Confront",
@@ -301,12 +321,12 @@
   {
     "word": "Congenial",
     "meaning": "(of a thing) pleasant or agreeable because suited to one’s taste or inclination.",
-    "mnemonic": ""
+    "mnemonic": "Con + generous (generous people are mostly pleasant)"
   },
   {
     "word": "Conniving",
     "meaning": "Given to or involved in conspiring to do something immoral, illegal, or harmful.",
-    "mnemonic": ""
+    "mnemonic": "Similar to Cunning (immoral)"
   },
   {
     "word": "Conspicuous",
@@ -321,12 +341,12 @@
   {
     "word": "Contempt",
     "meaning": "The feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.",
-    "mnemonic": ""
+    "mnemonic": "Con + Temper (If you easily temper, peoople treats you worthless)"
   },
   {
     "word": "Corporeal",
     "meaning": "Relating to a person’s body, especially as opposed to their spirit.",
-    "mnemonic": ""
+    "mnemonic": "Corpse - Physical body of dead"
   },
   {
     "word": "Corroborate",
