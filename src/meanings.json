@@ -351,7 +351,7 @@
   {
     "word": "Corroborate",
     "meaning": "Confirm or give support to (a statement, theory, or finding)",
-    "mnemonic": ""
+    "mnemonic": "Similar to colloborate - to support"
   },
   {
     "word": "Counteract",
@@ -371,18 +371,18 @@
   {
     "word": "Culminate",
     "meaning": "Reach a climax or point of highest development.",
-    "mnemonic": ""
+    "mnemonic": "CUL + Minute - Last Minute"
   },
   { "word": "Culpable", "meaning": "Deserving blame", "mnemonic": "" },
   {
     "word": "Curb",
     "meaning": "A check or restraint on something.",
-    "mnemonic": ""
+    "mnemonic": "Carb - have a check on howmuch you intake"
   },
   {
     "word": "Curtail",
     "meaning": "Reduce in extent or quantity; impose a restriction on.",
-    "mnemonic": ""
+    "mnemonic": "Similar to cocktail - Have a curtial on your cocktail - intake"
   },
   {
     "word": "Decline",
@@ -402,7 +402,7 @@
   {
     "word": "Definitive",
     "meaning": "done or reached decisively and with authority.",
-    "mnemonic": ""
+    "mnemonic": "DE + FINI(finish) +TE"
   },
   {
     "word": "Degenerative",
@@ -417,17 +417,17 @@
   {
     "word": "Deliberate",
     "meaning": "Done consciously and intentionally.",
-    "mnemonic": ""
+    "mnemonic": "Deli(Belly)+Berate - Be consciously on what you put in your Belly"
   },
   {
     "word": "Demeanour",
     "meaning": "Outward behavior or bearing",
-    "mnemonic": ""
+    "mnemonic": "DE+MANNER(Behaviour)"
   },
   {
     "word": "Demur",
     "meaning": "To object or show reluctance",
-    "mnemonic": ""
+    "mnemonic": "DAMN+UR"
   },
   {
     "word": "Denigrate",
@@ -437,7 +437,7 @@
   {
     "word": "Denounce",
     "meaning": "Publicly declare to be wrong or evil.",
-    "mnemonic": ""
+    "mnemonic": "De+Announce - Announce negative "
   },
   {
     "word": "Deprive",
@@ -447,7 +447,7 @@
   {
     "word": "Deride",
     "meaning": "Express contempt for; ridicule.",
-    "mnemonic": ""
+    "mnemonic": "De + Ride - Police will contempt if the you ride is not proper"
   },
   {
     "word": "Despicable",
@@ -457,9 +457,13 @@
   {
     "word": "Deter",
     "meaning": "Discourage (someone) from doing something by instilling doubt or fear of the consequences.",
-    "mnemonic": ""
+    "mnemonic": "Detergent - prevent dirt"
   },
-  { "word": "Detrimental", "meaning": "Tending to cause harm", "mnemonic": "" },
+  {
+    "word": "Detrimental",
+    "meaning": "Tending to cause harm",
+    "mnemonic": "Detri + Mental - Mental people harm others"
+  },
   {
     "word": "Devolve",
     "meaning": "Transfer or delegate (power) to a lower level, especially from central government to local or regional administration.",
