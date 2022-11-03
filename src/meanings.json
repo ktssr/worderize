@@ -543,7 +543,7 @@
   {
     "word": "Efficacy",
     "meaning": "The ability to produce a desired or intended result.",
-    "mnemonic": ""
+    "mnemonic": "Similar to Efficiency"
   },
   {
     "word": "Egregious",
@@ -553,7 +553,7 @@
   {
     "word": "Elation",
     "meaning": "Great happiness and exhilaration.",
-    "mnemonic": ""
+    "mnemonic": "In Election the winning candidate will be happy"
   },
   {
     "word": "Eliminate",
@@ -563,12 +563,12 @@
   {
     "word": "Elucidate",
     "meaning": "Make (something) clear; explain.",
-    "mnemonic": ""
+    "mnemonic": "E + lucid(luminous) + ate - With light we can see clearly"
   },
   {
     "word": "Embolden",
     "meaning": "Give (someone) the courage or confidence to do something or to behave in a certain way.",
-    "mnemonic": ""
+    "mnemonic": "Em + Boldem"
   },
   {
     "word": "Emulate",
@@ -603,14 +603,18 @@
   {
     "word": "Enumerate",
     "meaning": "Mention (a number of things) one by one",
-    "mnemonic": ""
+    "mnemonic": "E + Number + ate"
   },
   {
     "word": "Epitomize",
     "meaning": "Be a perfect example of.",
-    "mnemonic": ""
+    "mnemonic": "Eptiome sounds like optimum"
   },
-  { "word": "Equivocal", "meaning": "Confusing or Ambiguous", "mnemonic": "" },
+  {
+    "word": "Equivocal",
+    "meaning": "Confusing or Ambiguous",
+    "mnemonic": "Equally vocal about contradicting ideas"
+  },
   {
     "word": "Eradicate",
     "meaning": "Destroy completely; put an end to.",
@@ -619,7 +623,7 @@
   {
     "word": "Eschew",
     "meaning": "avoid and stay deliberately; stay clear of",
-    "mnemonic": ""
+    "mnemonic": "After chewing the gum is eschewed"
   },
   {
     "word": "Ethereal",
@@ -639,9 +643,13 @@
   {
     "word": "Expropriation",
     "meaning": "The action by the state or an authority of taking property from its owner for public use or benefit.",
-    "mnemonic": ""
+    "mnemonic": "Ex + Property + Ion"
   },
-  { "word": "Extant", "meaning": "Still in existence", "mnemonic": "" },
+  {
+    "word": "Extant",
+    "meaning": "Still in existence",
+    "mnemonic": "Opp to Extinct"
+  },
   {
     "word": "Extensive",
     "meaning": "Covering or affecting a large area.",
@@ -650,7 +658,7 @@
   {
     "word": "Extraneous",
     "meaning": "Irrelevant or unrelated to the subject being dealt with",
-    "mnemonic": ""
+    "mnemonic": "Similar to External"
   },
   {
     "word": "Fervent",
