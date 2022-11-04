@@ -668,7 +668,7 @@
   {
     "word": "Fluster",
     "meaning": "Make (someone) agitated or confused.",
-    "mnemonic": ""
+    "mnemonic": "Con + Fus + Ter"
   },
   {
     "word": "Forthright",
@@ -678,17 +678,17 @@
   {
     "word": "Fortitude",
     "meaning": "Courage in pain or adversity.",
-    "mnemonic": ""
+    "mnemonic": "For + The + Rights - You need to be straight forward for your rights"
   },
   {
     "word": "Frenetic",
     "meaning": "Fast and energetic in a rather wild and uncontrolled way",
-    "mnemonic": ""
+    "mnemonic": "Similar to Frence -> Needed for controlling"
   },
   {
     "word": "Frugal",
     "meaning": "Not spending much money (but spending wisely)",
-    "mnemonic": ""
+    "mnemonic": "Free + Gal -> If it's free, we need not spend money"
   },
   {
     "word": "Fruitful",
@@ -698,17 +698,17 @@
   {
     "word": "Fulminate",
     "meaning": "Express vehement protest",
-    "mnemonic": ""
+    "mnemonic": "Fulminate against Descriminate"
   },
   {
     "word": "Gainsay",
     "meaning": "Deny or contradict; speak against or oppose",
-    "mnemonic": ""
+    "mnemonic": "Gain(Against) + Say"
   },
   {
     "word": "Galvanize",
     "meaning": "To excite or inspire (someone) to action",
-    "mnemonic": ""
+    "mnemonic": "Goa + Nize -> Excited to visit Goa"
   },
   {
     "word": "Gauge",
@@ -723,14 +723,18 @@
   {
     "word": "Germane",
     "meaning": "Relevant to a subject under consideration.",
-    "mnemonic": ""
+    "mnemonic": "Germany is germane to word war "
   },
   {
     "word": "Glib",
     "meaning": "Fluent and voluble but insincere and shallow.",
-    "mnemonic": ""
+    "mnemonic": "G + Liberal - Free to speak"
   },
-  { "word": "Glut", "meaning": "An excessive supply", "mnemonic": "" },
+  {
+    "word": "Glut",
+    "meaning": "An excessive supply",
+    "mnemonic": "Gain a lot -> Excess"
+  },
   {
     "word": "Gorgeous",
     "meaning": "Beautiful; very attractive.",
@@ -739,12 +743,12 @@
   {
     "word": "Gregarious",
     "meaning": "To be likely to socialize with others",
-    "mnemonic": ""
+    "mnemonic": "Greg + Area (s) -> Pleope in same area are gregarious"
   },
   {
     "word": "Guile",
     "meaning": "Sly or cunning intelligence.",
-    "mnemonic": ""
+    "mnemonic": "Gui + Lie -> People who lie are cunning"
   },
   {
     "word": "Harangue",
