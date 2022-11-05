@@ -752,8 +752,8 @@
   },
   {
     "word": "Harangue",
-    "meaning": "A long pompous speech; a tirade",
-    "mnemonic": ""
+    "meaning": "A long pompous(Exhibiting self importance) speech; a tirade (a long, angry speech of criticism or accusation)",
+    "mnemonic": "Her + Anger"
   },
   {
     "word": "Hardened",
@@ -783,12 +783,12 @@
   {
     "word": "Illegible",
     "meaning": "Not clear enough to be read.",
-    "mnemonic": ""
+    "mnemonic": "Ille + gible(Scribble) -> Scribbled writing is not clear to read"
   },
   {
     "word": "Illegitimate",
     "meaning": "Not authorized by the law; not in accordance with accepted standards or rules.",
-    "mnemonic": ""
+    "mnemonic": "Il + Legit(legal) + Mate"
   },
   {
     "word": "Immerse",
@@ -798,17 +798,17 @@
   {
     "word": "Impair",
     "meaning": "Weaken or damage something (especially a human faculty or function)",
-    "mnemonic": ""
+    "mnemonic": "Im + Pair -> When a pair is separetd it will weaken"
   },
   {
     "word": "Impertinent",
     "meaning": "Being disrespectful; improperly forward or bold.",
-    "mnemonic": ""
+    "mnemonic": "Improper + tenant -> Rude"
   },
   {
     "word": "Implicate",
     "meaning": "Show (someone) to be involved in a crime.",
-    "mnemonic": ""
+    "mnemonic": "Imply + Hate -> When we hate, we try to prove they are wrong"
   },
   {
     "word": "Impress",
@@ -818,12 +818,12 @@
   {
     "word": "Impudent",
     "meaning": "Not showing due respect for another person; impertinent.",
-    "mnemonic": ""
+    "mnemonic": "Impure Student"
   },
   {
     "word": "Incarceration",
     "meaning": "The state of being confined in prison; imprisonment.",
-    "mnemonic": ""
+    "mnemonic": "In + Carcer(prison) "
   },
   {
     "word": "Incomprehensible",
@@ -838,7 +838,7 @@
   {
     "word": "Incorrigible",
     "meaning": "(of a person or their tendencies) not able to be corrected, improved, or reformed.",
-    "mnemonic": ""
+    "mnemonic": "In + Correct + able"
   },
   {
     "word": "Indefatigable",
