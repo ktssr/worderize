@@ -828,12 +828,12 @@
   {
     "word": "Incomprehensible",
     "meaning": "Not able to be understood; not intelligible.",
-    "mnemonic": ""
+    "mnemonic": "In + comprehend(grasp/understand) + ble"
   },
   {
     "word": "Inconsequential",
     "meaning": "Not important or significant.",
-    "mnemonic": ""
+    "mnemonic": "No consequnces so not imjportant"
   },
   {
     "word": "Incorrigible",
@@ -848,19 +848,23 @@
   {
     "word": "Indefensible",
     "meaning": "Not justifiable by argument.",
-    "mnemonic": ""
+    "mnemonic": "In + Defense + ble - we can't defend"
   },
   {
     "word": "Indelible",
     "meaning": "(of ink or a pen) making marks that cannot be removed.",
-    "mnemonic": ""
+    "mnemonic": "In + delete + able"
   },
   {
     "word": "Indictment",
     "meaning": "A formal charge or accusation of a serious crime",
-    "mnemonic": ""
+    "mnemonic": "Indict similar to Verdict"
   },
-  { "word": "Indigent", "meaning": "A needy person.", "mnemonic": "" },
+  {
+    "word": "Indigent",
+    "meaning": "A needy person.",
+    "mnemonic": "Indigestion due to lack of food"
+  },
   {
     "word": "Indulgent",
     "meaning": "Become involved in (an activity, typically one that is undesirable or disapproved of)",
@@ -876,21 +880,25 @@
     "meaning": "Cause (a process or action) to begin.",
     "mnemonic": ""
   },
-  { "word": "Innate", "meaning": "Inborn; natural.", "mnemonic": "" },
+  {
+    "word": "Innate",
+    "meaning": "Inborn; natural.",
+    "mnemonic": "Eating in Inn is his inborn habit"
+  },
   {
     "word": "Innocuous",
     "meaning": "Harmless and doesn’t produce any ill effects",
-    "mnemonic": ""
+    "mnemonic": "Similar to Innocent"
   },
   {
     "word": "Insidious",
     "meaning": "Proceeding in a gradual, subtle way, but with harmful effects.",
-    "mnemonic": ""
+    "mnemonic": "In + Seed -> Plant grows verty gradually from seed"
   },
   {
     "word": "Instill",
     "meaning": "Gradually but firmly establish (an idea or attitude, especially a desirable one) in a person’s mind.",
-    "mnemonic": ""
+    "mnemonic": "Similar to install - but needs to be done gradually"
   },
   {
     "word": "Insubordination",
