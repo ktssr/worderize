@@ -1039,7 +1039,7 @@
   {
     "word": "Metrics",
     "meaning": "The use or study of poetic meters; prosody.",
-    "mnemonic": ""
+    "mnemonic": "Meter + ics"
   },
   {
     "word": "Misanthrope",
@@ -1059,7 +1059,7 @@
   {
     "word": "Mitigate",
     "meaning": "Make less severe, serious, or painful.",
-    "mnemonic": "Mini + Gate"
+    "mnemonic": "Mini(fy) + Gate"
   },
   {
     "word": "Modest",
@@ -1069,7 +1069,7 @@
   {
     "word": "Mollify",
     "meaning": "Appease the anger or anxiety of (someone)",
-    "mnemonic": ""
+    "mnemonic": "Similar to nullify - Nullify the anger/anxiety"
   },
   {
     "word": "Mortal",
@@ -1094,22 +1094,22 @@
   {
     "word": "Obscure",
     "meaning": "Not clearly expressed or easily understood.",
-    "mnemonic": ""
+    "mnemonic": "Obisity + Cure -> Cure for obisity is obscure"
   },
   {
     "word": "Ocular",
     "meaning": "Of or connected with the eyes or vision.",
-    "mnemonic": ""
+    "mnemonic": "binOcular"
   },
   {
     "word": "Ominous",
     "meaning": "Giving the impression that something bad or unpleasant is going to happen; threatening; inauspicious.",
-    "mnemonic": ""
+    "mnemonic": "oh+minus(-)"
   },
   {
     "word": "Omnipotent",
     "meaning": "Having unlimited power; able to do anything.",
-    "mnemonic": ""
+    "mnemonic": "Omnis(all in latin) potent"
   },
   {
     "word": "Optimal",
@@ -1134,7 +1134,7 @@
   {
     "word": "Parsimonious",
     "meaning": "Extremely Frugal; miserly",
-    "mnemonic": ""
+    "mnemonic": "Partial Vision"
   },
   {
     "word": "Peculiarities",
@@ -1149,9 +1149,13 @@
   {
     "word": "Penchant",
     "meaning": "A strong or habitual liking for something or a tendency to do something.",
-    "mnemonic": ""
+    "mnemonic": "pen + chant -> we always chants what we like "
   },
-  { "word": "Perilous", "meaning": "Full of danger or risk.", "mnemonic": "" },
+  {
+    "word": "Perilous",
+    "meaning": "Full of danger or risk.",
+    "mnemonic": "Simlar to very less -> Very less chance of safety"
+  },
   {
     "word": "Persistent",
     "meaning": "Continuing to exist or endure over a prolonged period.",
@@ -1185,12 +1189,12 @@
   {
     "word": "Placate",
     "meaning": "Make (someone) less angry or hostile.",
-    "mnemonic": ""
+    "mnemonic": "Play + cat -> Playing with cat placeates some people"
   },
   {
     "word": "Poignant",
     "meaning": "Sharp or pungent in taste or smell.",
-    "mnemonic": ""
+    "mnemonic": "Poigson + ant -> when food is poisoned(rotten) it is Poignant"
   },
   {
     "word": "Precursor",
