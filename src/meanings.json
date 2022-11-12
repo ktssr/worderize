@@ -1199,7 +1199,7 @@
   {
     "word": "Precursor",
     "meaning": "A person or thing that comes before another of the same kind; a forerunner.",
-    "mnemonic": ""
+    "mnemonic": "Pre + Cursor"
   },
   {
     "word": "Predator",
@@ -1209,7 +1209,7 @@
   {
     "word": "Predilection",
     "meaning": "A preference or special liking for something; a bias in favor of something.",
-    "mnemonic": ""
+    "mnemonic": "Pre + di + Liketion"
   },
   {
     "word": "President",
@@ -1219,32 +1219,32 @@
   {
     "word": "Prevail",
     "meaning": "Prove more powerful than opposing forces; be victorious.",
-    "mnemonic": ""
+    "mnemonic": "Prove + Well"
   },
   {
     "word": "Prevalent",
     "meaning": "Widespread in a particular area or at a particular time.",
-    "mnemonic": ""
+    "mnemonic": "Talent is not Prevalent"
   },
   {
     "word": "Prevaricate",
-    "meaning": "To speak in an evasive way",
-    "mnemonic": ""
+    "meaning": "To speak in an evasive(escaping) way",
+    "mnemonic": "Similar to fabricate -> Fabricate the truth to escape"
   },
   {
     "word": "Proclaim",
     "meaning": "Declare something one considers important with due emphasis.",
-    "mnemonic": ""
+    "mnemonic": "Pro + Claim"
   },
   {
     "word": "Prodigal",
-    "meaning": "Rashly or wastefully extravagant",
-    "mnemonic": ""
+    "meaning": "Rashly or wastefully extravagant (lacking resistance in spending)",
+    "mnemonic": "P + Road + igal -> We should not Prodigal while we are on Road trip"
   },
   {
     "word": "Professed",
     "meaning": "(of quality, feeling, or belief) claimed or asserted openly but often falsely.",
-    "mnemonic": ""
+    "mnemonic": "Some professionals are professed"
   },
   {
     "word": "Proficient",
@@ -1254,7 +1254,7 @@
   {
     "word": "Profligate",
     "meaning": "Spending resources recklessly or wastefully",
-    "mnemonic": ""
+    "mnemonic": "Proit + gate -> Sending all the profit through gate"
   },
   {
     "word": "Progressive",
@@ -1265,9 +1265,13 @@
   {
     "word": "Propensity",
     "meaning": "An inclination or natural tendency to behave in a particular way.",
-    "mnemonic": ""
+    "mnemonic": "People in city are having Proppencity to be in open city these days"
   },
-  { "word": "Protract", "meaning": "Prolong.", "mnemonic": "" },
+  {
+    "word": "Protract",
+    "meaning": "Prolong.",
+    "mnemonic": "We can not protract using protractor because it's in circular shape"
+  },
   {
     "word": "Prudence",
     "meaning": "The quality of being prudent; cautiousness.",
@@ -1276,7 +1280,7 @@
   {
     "word": "Prurient",
     "meaning": "Having or encouraging an excessive interest in sexual matters.",
-    "mnemonic": ""
+    "mnemonic": "Opposite to Prude (Easily shocked by Sexual / Nude matters)"
   },
   {
     "word": "Qualify",
@@ -1286,7 +1290,7 @@
   {
     "word": "Querulous",
     "meaning": "Complaining in a petulant or whining manner.",
-    "mnemonic": ""
+    "mnemonic": "When there is a quarrel he becomes querulous"
   },
   {
     "word": "Rabid",
