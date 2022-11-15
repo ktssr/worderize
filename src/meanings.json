@@ -1391,7 +1391,7 @@
   {
     "word": "Riveting",
     "meaning": "Completely engrossing; compelling.",
-    "mnemonic": "ri + whet (Whet your appetite)"
+    "mnemonic": "ri + whet (Whet (sharpen) your appetite)"
   },
   {
     "word": "Robust",
@@ -1406,12 +1406,12 @@
   {
     "word": "Salient",
     "meaning": "Most noticeable or important.",
-    "mnemonic": ""
+    "mnemonic": "Similar to Silent -> Important people are mostly silent"
   },
   {
     "word": "Sanguine",
     "meaning": "Optimistic or positive, especially in an apparently bad or difficult situation.",
-    "mnemonic": ""
+    "mnemonic": "Similar to Penguine -> seeing penguine generates positive vibes"
   },
   {
     "word": "Secretive",
@@ -1428,7 +1428,11 @@
     "meaning": "A published, broadcast, or recorded work that continues the story or develops the theme of an earlier one.",
     "mnemonic": ""
   },
-  { "word": "Sluggish", "meaning": "Slow-moving or inactive", "mnemonic": "" },
+  {
+    "word": "Sluggish",
+    "meaning": "Slow-moving or inactive",
+    "mnemonic": "Slow + ish"
+  },
   {
     "word": "Stagnant",
     "meaning": "Showing no activity; dull and sluggish",
@@ -1443,22 +1447,22 @@
   {
     "word": "Sterile",
     "meaning": "Not able to produce children or young ones.",
-    "mnemonic": ""
+    "mnemonic": "not fertile"
   },
   {
     "word": "Stigmatize",
     "meaning": "Describe or regard as worthy of disgrace or great disapproval.",
-    "mnemonic": ""
+    "mnemonic": "Stick (bad things) + matize"
   },
   {
     "word": "Strain",
     "meaning": "Force (a part of one’s body or oneself) to make a strenuous or unusually great effort.",
-    "mnemonic": ""
+    "mnemonic": "S + train (excessively)"
   },
   {
     "word": "Stringent",
     "meaning": "(of regulations, requirements, or conditions) strict, precise, and exacting.",
-    "mnemonic": ""
+    "mnemonic": "Strict + Gent"
   },
   {
     "word": "Subservient",
