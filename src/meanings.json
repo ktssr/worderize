@@ -1467,28 +1467,32 @@
   {
     "word": "Subservient",
     "meaning": "Prepared to obey others unquestioningly; subordinate",
-    "mnemonic": ""
+    "mnemonic": "sub + servent"
   },
   {
     "word": "Supercilious",
     "meaning": "Behaving or looking as though one thinks one is superior to others",
-    "mnemonic": ""
+    "mnemonic": "superior + Cilious"
   },
-  { "word": "Supplant", "meaning": "Supersede and replace.", "mnemonic": "" },
+  {
+    "word": "Supplant",
+    "meaning": "Supersede and replace.",
+    "mnemonic": "Similar to Suppliment"
+  },
   {
     "word": "Surmount",
     "meaning": "Overcome (a difficulty or obstacle)",
-    "mnemonic": ""
+    "mnemonic": "Sur + Mount -> to cross a mountain we need to overcome lot of difficulties"
   },
   {
     "word": "Surreptitiously",
     "meaning": "In a way that attempts to avoid notice or attention; secretively.",
-    "mnemonic": ""
+    "mnemonic": "Similar to suspicious. We suspect someone when they are hiding secrets"
   },
   {
     "word": "Tactile",
     "meaning": "Of or connected with the sense of touch.",
-    "mnemonic": ""
+    "mnemonic": "Tact - Similar to contact"
   },
   {
     "word": "Temper",
@@ -1498,7 +1502,7 @@
   {
     "word": "Temperamental",
     "meaning": "(of a person) liable to unreasonable changes of mood.",
-    "mnemonic": ""
+    "mnemonic": "Temper + Mental"
   },
   {
     "word": "Tepid",
