@@ -1507,27 +1507,27 @@
   {
     "word": "Tepid",
     "meaning": "(especially of a liquid) only slightly warm; lukewarm.",
-    "mnemonic": ""
+    "mnemonic": "Tea + pid(dip) -> Hand can be dipped into tea only when it's lukewarm"
   },
   {
     "word": "Terse",
     "meaning": "Sparing in the use of words; abrupt.",
-    "mnemonic": ""
+    "mnemonic": "Mother Terisa is wriiten as Terse and it si terse"
   },
   {
     "word": "Timorous",
     "meaning": "Showing or suffering from nervousness, fear, or a lack of confidence.",
-    "mnemonic": ""
+    "mnemonic": "Similar to Nervous"
   },
   {
     "word": "Tormenting",
     "meaning": "Inflicting severe physical or mental suffering.",
-    "mnemonic": ""
+    "mnemonic": "Toe + Bent -> Severe pain occurs when toe is bent accidentally"
   },
   {
     "word": "Torpor",
     "meaning": "Inactivity resulting from lethargy and lack of vigor or energy",
-    "mnemonic": ""
+    "mnemonic": "Topper is never Torpor"
   },
   {
     "word": "Triumph",
@@ -1537,7 +1537,7 @@
   {
     "word": "Ubiquitous",
     "meaning": "Present, appearing, or found everywhere.",
-    "mnemonic": ""
+    "mnemonic": "Sounds like mosquitos and they are everywhere"
   },
   {
     "word": "Unconstrained",
@@ -1548,7 +1548,7 @@
   {
     "word": "Undeterred",
     "meaning": "Persevering with something despite setbacks.",
-    "mnemonic": ""
+    "mnemonic": "Mining will undermine the strength of soil"
   },
   {
     "word": "Undignified",
@@ -1560,53 +1560,65 @@
     "meaning": "(of a feeling) unconcealed; overt.",
     "mnemonic": ""
   },
-  { "word": "Upbraid", "meaning": "To reproach; to scold", "mnemonic": "" },
+  {
+    "word": "Upbraid",
+    "meaning": "To reproach; to scold",
+    "mnemonic": "bride is upbraid by groom for not grooming up "
+  },
   {
     "word": "Vacillate",
     "meaning": "Alternate or waver between different opinions or actions; be indecisive.",
-    "mnemonic": ""
+    "mnemonic": "Sounds like Oscillate"
   },
   {
     "word": "Vehement",
     "meaning": "Showing strong feelings; forceful, passionate, or intense.",
-    "mnemonic": ""
+    "mnemonic": "sounds like violent"
   },
   {
     "word": "Venality",
     "meaning": "The condition of being susceptible to bribes or corruption",
-    "mnemonic": ""
+    "mnemonic": "If you are having Venality you have to pay Penality"
   },
-  { "word": "Venerate", "meaning": "To respect deeply", "mnemonic": "" },
+  {
+    "word": "Venerate",
+    "meaning": "To respect deeply",
+    "mnemonic": "When You Rate some one higher, we respect them."
+  },
   {
     "word": "Vengeance",
     "meaning": "Punishment inflicted or retribution exacted for an injury or wrong.",
     "mnemonic": ""
   },
-  { "word": "Veracious", "meaning": "Truthful", "mnemonic": "" },
+  {
+    "word": "Veracious",
+    "meaning": "Truthful",
+    "mnemonic": "Ver (Rootword meaning true)"
+  },
   {
     "word": "Vicarious",
     "meaning": "Experienced in the imagination through the feelings or actions of another person.",
-    "mnemonic": ""
+    "mnemonic": "Vi + Curious -> He is still curious as he got only vicarious experience"
   },
   {
     "word": "Vindicate",
     "meaning": "To clear of accusation, blame, suspicion or doubt with supporting arguments or proof.",
-    "mnemonic": ""
+    "mnemonic": "WIN THE CASE"
   },
   {
     "word": "Virulent",
     "meaning": "(of a disease or poison) extremely severe or harmful in its effects.",
-    "mnemonic": ""
+    "mnemonic": "Virus in extreme is virulent"
   },
   {
     "word": "Wary",
     "meaning": "Feeling or showing caution about possible dangers or problems.",
-    "mnemonic": ""
+    "mnemonic": "Similar to worry"
   },
   {
     "word": "Waver",
     "meaning": "Shake with a quivering motion.",
-    "mnemonic": ""
+    "mnemonic": "Waver waves"
   },
   {
     "word": "Word",
@@ -1616,6 +1628,6 @@
   {
     "word": "Wrench",
     "meaning": "A sudden violent twist or pull.",
-    "mnemonic": ""
+    "mnemonic": "W + rench (tool to rotate screws) "
   }
 ]
